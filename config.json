@@ -22,7 +22,8 @@
     }
   },
   "discovery": {
-    "mode": "site",
+    "mode": "iframe",
+    "gads": true,
     "ad_size": "728,90",
     "placement_selector": {
       "specific": "",
