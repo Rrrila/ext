@@ -3,7 +3,7 @@
   "known_sites": {
     "github.com": {
       "mode": "site",
-      "gads": false,
+      "gads": true,
       "ad_size": "300,250",
       "placement_selector": {
         "specific": "#ad-container",
