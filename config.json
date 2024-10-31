@@ -1,5 +1,5 @@
 {
-  "excluded_sites": ["*.github.com"],
+  "excluded_sites": ["*.google.com"],
   "known_sites": {
     "github.com": {
       "mode": "iframe",
