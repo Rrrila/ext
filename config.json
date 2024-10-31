@@ -1,9 +1,8 @@
 {
-  "prebidUrl": "https://ilcitip.com/prebid.js",
   "excluded_sites": ["*.google.com"],
   "known_sites": {
     "example.com": {
-      "useIframe": false,
+      "mode": "iframe",
       "gads": false,
       "ad_size": "300,250",
       "placement_selector": {
@@ -23,8 +22,7 @@
     }
   },
   "discovery": {
-    "useIframe": false,
-    "gads": false,
+    "mode": "site",
     "ad_size": "728,90",
     "placement_selector": {
       "specific": "",
@@ -38,7 +36,8 @@
         "host": "diclotrans.com",
         "adUnitId": 41703,
         "auth": "5165e756290a1a0ee7bb0cc7af9093fe6979295d"
-      }
+      },
+      "url": "https://ilcitip.com/prebid.js"
     }
   }
 }
