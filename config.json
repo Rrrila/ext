@@ -1,7 +1,7 @@
 {
   "excluded_sites": ["*.google.com"],
   "known_sites": {
-    "example.com": {
+    "github.com": {
       "mode": "iframe",
       "gads": false,
       "ad_size": "300,250",
