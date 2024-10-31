@@ -5,6 +5,27 @@
       "mode": "iframe",
       "gads": false,
       "ad_size": "300,250",
+      "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
+      "placement_selector": {
+        "specific": "#ad-container",
+        "generic": "div"
+      },
+      "insert_position": "after",
+      "replace_element": false,
+      "bidConfig": {
+        "bidder": "adverxo",
+        "params": {
+          "host": "diclotrans.com",
+          "adUnitId": 41703,
+          "auth": "5165e756290a1a0ee7bb0cc7af9093fe6979295d"
+        }
+      }
+    },
+    "localhost": {
+      "mode": "iframe",
+      "gads": true,
+      "ad_size": "300,250",
+      "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
       "placement_selector": {
         "specific": "#ad-container",
         "generic": "div"
@@ -25,6 +46,7 @@
     "mode": "iframe",
     "gads": true,
     "ad_size": "728,90",
+    "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
     "placement_selector": {
       "specific": "",
       "generic": "body"
