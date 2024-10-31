@@ -5,6 +5,7 @@
       "mode": "iframe",
       "gads": true,
       "ad_size": "300,250",
+      "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
       "placement_selector": {
         "specific": "",
         "generic": "body"
