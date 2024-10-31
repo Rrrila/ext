@@ -6,10 +6,10 @@
       "gads": true,
       "ad_size": "300,250",
       "placement_selector": {
-        "specific": "#ad-container",
-        "generic": "div"
+        "specific": "",
+        "generic": "body"
       },
-      "insert_position": "after",
+      "insert_position": "before",
       "replace_element": false,
       "bidConfig": {
         "bidder": "adverxo",
