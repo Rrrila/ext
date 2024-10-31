@@ -2,10 +2,9 @@
   "excluded_sites": ["*.google.com"],
   "known_sites": {
     "github.com": {
-      "mode": "iframe",
+      "mode": "site",
       "gads": false,
       "ad_size": "300,250",
-      "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
       "placement_selector": {
         "specific": "#ad-container",
         "generic": "div"
@@ -26,7 +25,6 @@
     "mode": "site",
     "gads": false,
     "ad_size": "728,90",
-    "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
     "placement_selector": {
       "specific": "",
       "generic": "body"
@@ -39,8 +37,7 @@
         "host": "diclotrans.com",
         "adUnitId": 41703,
         "auth": "5165e756290a1a0ee7bb0cc7af9093fe6979295d"
-      },
-      "url": "https://ilcitip.com/prebid.js"
+      }
     }
   }
 }
