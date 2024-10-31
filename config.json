@@ -1,7 +1,7 @@
 {
   "excluded_sites": ["*.google.com"],
   "known_sites": {
-    "github.com": {
+    "fiesta.com": {
       "mode": "iframe",
       "gads": true,
       "ad_size": "300,250",
