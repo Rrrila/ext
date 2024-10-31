@@ -30,7 +30,7 @@
         "specific": "#ad-container",
         "generic": "div"
       },
-      "insert_position": "after",
+      "insert_position": "before",
       "replace_element": false,
       "bidConfig": {
         "bidder": "adverxo",
