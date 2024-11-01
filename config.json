@@ -1,5 +1,5 @@
 {
-  "excluded_sites": ["*.google.com"],
+  "excluded_sites": ["*.google.com", "*.revistacachet.com"],
   "known_sites": {
     "fiesta.com": {
       "mode": "iframe",
