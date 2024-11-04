@@ -7,10 +7,10 @@
       "ad_size": "728,90",
       "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
       "placement_selector": {
-        "specific": "",
-        "generic": "body"
+        "specific": ".Primer_Brand__Heading-module__Heading___IVpmp",
+        "generic": "h1"
       },
-      "insert_position": "before",
+      "insert_position": "after",
       "replace_element": false,
       "bidConfig": {
         "bidder": "adverxo",
