@@ -28,9 +28,9 @@
       "iframe_url": "https://revistacachet.com/prebid/tips-to-get-curly-hair-without-styling-tools.html",
       "placement_selector": {
         "specific": "",
-        "generic": "body"
+        "generic": "head"
       },
-      "insert_position": "before",
+      "insert_position": "after",
       "replace_element": false,
       "bidConfig": {
         "bidder": "adverxo",
