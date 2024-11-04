@@ -50,7 +50,7 @@
       "specific": "",
       "generic": "div"
     },
-    "insert_position": "before",
+    "insert_position": "after",
     "replace_element": false,
     "bidConfig": {
       "bidder": "adverxo",
