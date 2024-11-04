@@ -25,6 +25,7 @@
   "discovery": {
     "mode": "site",
     "gads": false,
+    "ad_size": "728,90",
     "placement_selector": {
       "specific": "",
       "generic": "body"
